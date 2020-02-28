@@ -1,0 +1,29 @@
+.footer{
+    height:600px;
+    margin-top: 20px;
+    padding-top: 50px;
+    background-color: rgb(241, 241, 241);
+    background-image: url("http://misbartrading.com/img/map-overlay.png");
+}
+.footer img{
+    margin-left: 45%;
+}
+.footer p{
+    text-align: center;
+}
+.footer h5{font-weight: bold;}
+.footer ul{margin-left: 42%;
+    margin-top: 40px;
+}
+.footer ul li{
+    display: inline-block;
+    padding-left: 10px;
+}
+.footer .footerpara{margin-left: 2%;
+          line-height: 3em;
+}
+.footer .footerpara span{margin-left: 0px;
+    color: rgb(28, 28, 121);
+    font-weight: bold;
+   
+}

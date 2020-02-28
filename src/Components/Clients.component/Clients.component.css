@@ -1,0 +1,22 @@
+.clients{
+    margin-top:20px;
+    height: 300px;
+    width:100%;
+   background-color: rgb(247, 245, 245);
+   padding-top: 50px;
+}
+.clients h1{
+  margin-left: 550px;
+   font-family: calibri;
+   font-size: 2rem;
+    font-weight: bold;
+    color:rgb(65, 63, 63);
+}
+.clients hr{background-color: black;
+      width:50px;
+      height: 2px;
+}
+.clients img{
+  margin-top: 30px;
+  margin-left: 70px;
+}

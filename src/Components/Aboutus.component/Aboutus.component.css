@@ -1,0 +1,43 @@
+.cf{background-color: white;
+    width:100%;
+    height:700px;
+   display: flex;
+   flex-direction: row;
+}
+.cf .containerimage img{
+    width:50%;
+    height:40%;
+    border-radius: 50%;
+    display: block;
+    margin: 150px 0px 0px 130px;  
+}
+.cf .cfp h1{
+   margin-left: 80px;
+   font-family: calibri;
+   font-size: 2rem;
+    font-weight: bold;
+    color:rgb(65, 63, 63);
+}
+.cfp{
+     width:70%;
+     height: 400px;
+     margin:180px 60px 0px 0px;
+     
+}
+.underline{
+    width: 3rem;
+    height: .2rem;
+    background-color: #273065;
+    margin-left: 120px;
+    margin-bottom: 50px;
+}
+.cf .blockquote p{
+    font-family: 'Open Sans', sans-serif !important;
+    color: #505962;
+    font-size: 0.85em;
+    text-indent: 80px;
+}
+.blockquote-footer{
+    font-style: italic;
+}
+.cf .blockquote hr{background-color:black;}

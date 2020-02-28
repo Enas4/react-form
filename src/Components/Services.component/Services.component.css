@@ -1,0 +1,31 @@
+.services{
+    height: 700px;
+    width:100%;
+   background-color: rgb(247, 245, 245);
+   padding-top: 50px;
+}
+.services h1{
+  margin-left: 550px;
+   font-family: calibri;
+   font-size: 2rem;
+    font-weight: bold;
+    color:rgb(65, 63, 63);
+}
+.services hr{background-color: black;
+      width:50px;
+      height: 2px;
+}
+.srvpara{
+    width:80%;
+    margin:30px 0px 0px 100px;
+    text-align-last: center;
+    color: gray;
+}
+.pics{
+    display: flex;
+    flex-direction: row;
+}
+.card-body{background-color: rgb(228, 225, 225);}
+.pictures{margin-left: 80px;}
+.card-title{text-align: center; color:rgb(105, 104, 104)}
+.card-text{text-align: center; color:rgb(105, 104, 104)}

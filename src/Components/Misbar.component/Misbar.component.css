@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+.navbuttons{
+    background-image: url("http://misbartrading.com/img/front.jpeg");
+    height: 100vh;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+.navbuttons .navbar .navbarlist{margin-left: 20%;margin-top:70px;}
+.navbuttons .navbar .navbarlist .nav-item{
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    font-size: larger;
+    font-weight: 300;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-line: underline;
+    text-underline-position: under;
+    padding-bottom: 5px;
+}
+.navbuttons .navbarlist .nav-item a{color: white;}
+.navbuttons .navbarlist .nav-item a:hover{color: rgb(236, 236, 236);}
+.navbuttons img{margin-left: 35%; margin-top: 10%;}
+.navbuttons h1{
+     margin-left: 30%;
+     margin-top: 2%; 
+     color:white;
+     font-family: 'Raleway', sans-serif;
+     font-weight: lighter;
+    
+    }
+    .navbuttons span{font-weight: bold;}
+    .navbuttons p{
+        text-align: center;
+        color: white;
+        padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 1.25em;
+    }
+
